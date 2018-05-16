@@ -1,0 +1,35 @@
+@font-face {
+  font-family: CalibreLight;
+  font-weight: 200;
+  src: url("./fonts/Calibre-Light.otf");
+}
+@font-face {
+  font-family: CalibreBold;
+  src: url("./fonts/Calibre-Bold.otf");
+}
+@font-face {
+  font-family: CalibreMedium;
+  font-weight: 600;
+  src: url("./fonts/Calibre-Light.otf");
+}
+
+body,body * {
+  vertical-align:baseline;
+  font-family: sans-serif;
+  border:none;
+  outline:0;
+  margin:0;
+  padding:0;
+}
+
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+.hidden {
+  visibility: hidden;
+}
+
+.active {
+  visibility: visible;
+}

@@ -12,6 +12,8 @@ For the Builder you are able to adjust the text and photo and postion of the tex
 This can be viewed here.
 https://meezyart.github.io/react-web-banner-builder/storybook-static/
 
+or locally by running `yarn run storybook`
+
 Click under the knobs tab under WebBanner with knobs, when viewing.
 
 For line breaks in the title use \n

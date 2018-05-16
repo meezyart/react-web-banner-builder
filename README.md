@@ -10,10 +10,15 @@ To run this you will need Yarn installed
 For the Builder you are able to adjust the text and photo and postion of the text.
 
 This can be viewed here.
+https://meezyart.github.io/react-web-banner-builder/storybook-static/
 
 Click under the knobs tab under WebBanner with knobs, when viewing.
 
+For line breaks in the title use \n
 
+
+
+------
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

@@ -46,7 +46,7 @@ stories.add('with Knobs', () => {
       topPos: number(' Title Top Position', 74, options, 'Title')
     },
     terms: {
-      text: text('Terms', '20% off all purschases', 'Terms'),
+      text: text('Terms', '20% off all purchases', 'Terms'),
       bottomPos: number('Terms Position', 18, options, 'Terms')
     },
     mainImage: {
